@@ -6,3 +6,6 @@
 
 ## 2. Hadoop & Spark
 [hadoop_spark](hadoop_spark)
+
+## 3. Text Prep
+[text-prep](text-prep)
